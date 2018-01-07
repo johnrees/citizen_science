@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.062,
+          51.56
+        ]
+      },
+      "properties": {
+        "sensor": "TDS",
+        "value": 335,
+        "unit": "PPM",
+        "recorded_on": 20180107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.773,
+          53.313
+        ]
+      },
+      "properties": {
+        "sensor": "TDS",
+        "value": 25,
+        "unit": "PPM",
+        "recorded_on": 20180105
+      }
+    }
+  ]
+}
